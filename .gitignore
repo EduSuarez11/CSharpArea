@@ -1,0 +1,7 @@
+# Carpetas de compilación (Generadas automáticamente)
+bin/
+obj/
+.vs/
+
+# Archivos de usuario individuales
+*.user
